@@ -16,7 +16,6 @@ public class CardTypeDTO {
     private TypesCard typesCard;
     private String description;
 
-    //private List<String> lienPhoto;
 
 
 }

@@ -11,5 +11,5 @@ public interface CardService {
 
     List<CardType> lister();
 
-    Optional<CardType> trouver(Long id);
+    Optional<CardType> findById(Long id);
 }

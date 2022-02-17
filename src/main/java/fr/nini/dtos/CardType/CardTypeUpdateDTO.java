@@ -13,7 +13,6 @@ public class CardTypeUpdateDTO {
     private TypesCard typesCard;
     private String description;
 
-    //private List<String> lienPhoto;
 
 
 }

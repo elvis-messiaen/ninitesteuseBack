@@ -25,7 +25,7 @@ public class CardTypeController {
     @GetMapping(path = "/cardtype/{id}")
     public Optional<CardType> cardType (@PathVariable Long id) {
 
-        return cardService.trouver(id);
+        return cardService.findById(id);
     }
 
     @PostMapping(path = "/cardtype")
