@@ -2,7 +2,7 @@ package fr.nini;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-
+/*
 @SpringBootTest
 class NiniTesteuseApplicationTests {
 
@@ -11,3 +11,4 @@ class NiniTesteuseApplicationTests {
 	}
 
 }
+*/
